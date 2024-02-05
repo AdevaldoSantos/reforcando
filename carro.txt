@@ -1,2 +1,3 @@
 Marca: BMW
 Ano de lançamento: 1978
+Cor: branco
